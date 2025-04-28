@@ -1,6 +1,6 @@
-# Examen DVC et Dagshub
-Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
-
+# DVC / Dagshub Exam
+In this repository, you will find the proposed architecture for setting up the exam solution.
+Feel free to add any folders or files that you find relevant.
 ```bash       
 ├── examen_dvc          
 │   ├── data       
@@ -13,8 +13,7 @@ Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la s
 │   ├── src       
 │   └── README.md.py       
 ```
-N'hésitez pas à rajouter les dossiers ou les fichiers qui vous semblent pertinents.
+First, you must fork the repo and then clone it to work on it. The submission for this exam will be the link to your repository on DagsHub. Make sure to add https://dagshub.com/licence.pedago as a collaborator with read-only rights so it can be graded.
 
-Vous devez dans un premier temps *Fork* le repo et puis le cloner pour travailler dessus. Le rendu de cet examen sera le lien vers votre dépôt sur DagsHub. Faites attention à bien mettre https://dagshub.com/licence.pedago en tant que colaborateur avec des droits de lecture seulement pour que ce soit corrigé.
-
-Vous pouvez télécharger les données à travers le lien suivant : https://datascientest-mlops.s3.eu-west-1.amazonaws.com/mlops_dvc_fr/raw.csv.
+You can download the data using the following link:
+https://datascientest-mlops.s3.eu-west-1.amazonaws.com/mlops_dvc_fr/raw.csv
